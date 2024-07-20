@@ -8,7 +8,7 @@
 <a href="[LINK_TO_LINKEDIN_PROFILE]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 -->
 
-**With 3 years of experience in back-end development, I help companies in the development of Java web applications in an agile environment, following best practices.**
+I support companies in the design and development of web applications while applying Software Craftsmanship practices, since 2018.
 
 ## Aniquiz
 
